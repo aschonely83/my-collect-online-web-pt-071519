@@ -4,4 +4,5 @@ i = 0
   yield(collection[i])
   i = i + 1 
   end
+  collection
 end 
